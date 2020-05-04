@@ -1,0 +1,33 @@
+body {
+    background-color:#27496d;
+    color : #dae1e7;
+    font-family: Arial, Bookman, Verdana;
+    font-size: 90%;
+  }
+
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  border-width: 4px;
+  border-color: #142850;
+}
+
+h1 {
+  font-family: "Times New Roman", Arial, Verdana;
+  font-size: 400%;
+}
+a {
+  color : #b2ebf2;
+  text-decoration: none;
+}
+
+.tr {
+  background-color: #1f4068;
+}
+.hr1 {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  width: 4%;
+  border-color: #142850;
+}
